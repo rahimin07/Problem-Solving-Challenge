@@ -1,1 +1,1 @@
-# Problem-Solving-Challenge
+# Problem Solving Challenge
